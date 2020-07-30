@@ -28,16 +28,16 @@ sidebar:
 
     languages:
       - idiom: English
-        level: Full professional proficiency
+        level: Professional
 
       - idiom: Hindi
-        level: Native or bilingual proficiency
+        level: Native/Bilingual
 
       - idiom: Malayalam
-        level: Native or bilingual proficiency
+        level: Native/Bilingual
         
       - idiom: Tamil
-        level: Professional working proficiency
+        level: Professional
 
     interests:
       - item: Table Tennis
