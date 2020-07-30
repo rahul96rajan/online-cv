@@ -121,13 +121,13 @@ experiences:
 
 
 projects:
-    title: OCR (Optical Character recognizer)
+    title: Projects
     intro: >
-      My project are :
+#      'some thing in here'
     assignments:
       - title: OCR Desktop App
         link: "#hook"
-        tagline: "An OCR desktop app build upon tessert API enclosed in Java swing GUI.."
+        tagline: "An OCR desktop app build upon tessert API enclosed in Java swing GUI."
 
 #      - title: DevStudio
 #        link: "#"
