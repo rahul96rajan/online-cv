@@ -93,7 +93,7 @@ probability of scoring business opportunities from new customers list.
           - Using the insights to targeting high-value customers based on customer demographics and
 attributes.
           - Data Insights and Presentation - Using visualisations to present insights to the client.
-        Tools used: Python, NumPy, Pandas, Google Sheets, Scikit-Learn, Microsoft PowerBI
+        Tools used - Python, NumPy, Pandas, Google Sheets, Scikit-Learn, Microsoft PowerBI
 
           
     - role: Software Engineer - 2
@@ -106,7 +106,7 @@ attributes.
           - Provide feedback to product owners and test leads to improve existing automation approach.
           - Develop, execute and enhance TDD based automation using tools like Selenium, Java and other software test tools.
           - Participate in daily scrums and sync up calls with client and developers to verify and communicate enhancements suggested for the application or issues logged.
-        Tools used: Java, Javascript, Selenium, Webdriver.io, restassured.io, Jenkins, testNG, maven, git. 
+        Tools used - Java, Javascript, Selenium, Webdriver.io, restassured.io, Jenkins, testNG, maven, git. 
 
     - role: Analyst Intern
       time: July, 2017 - September, 2017
@@ -118,7 +118,7 @@ attributes.
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
           -  Design and develop Jasper Reports and templates.
-        Tools used: Java, Jasper iReport, SQL
+        Tools used - Java, Jasper iReport, SQL
 
 
 projects:
