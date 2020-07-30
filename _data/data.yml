@@ -7,57 +7,57 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Rahul Rajan
+    tagline: Machine Learning Engineer
+    avatar: rahul.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    email: r96rajan@gmail.com
+    phone: +91-9873731737
+    #website: blog.webjeda.com #do not add http://
+    linkedin: rahul96rajan
+    github: rahul96rajan
+    #telegram: # add your nickname without '@' sign
+    #gitlab:
+    #bitbucket:
+    #twitter: '@webjeda'
+    stack-overflow: 10109201/r96r # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
-        level: Native
+        level: Full professional proficiency
 
-      - idiom: French
-        level: Professional
+      - idiom: Hindi
+        level: Native or bilingual proficiency
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Malayalam
+        level: Native or bilingual proficiency
+        
+      - idiom: Tamil
+        level: Professional working proficiency
 
     interests:
-      - item: Climbing
+      - item: Table Tennis
         link:
 
-      - item: Snowboarding
+      - item: Foosball
         link:
 
-      - item: Cooking
+      - item: Reading
         link:
 
 career-profile:
-    title: Career Profile
+    title:  About Me
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a PG Diploma student in the [Center for Development of Advanced Computing](https://www.cdac.in/),
+       Noida.
+      You can download my CV [here](/assets/resume.pdf).
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: B.Tech in Computer Science
+      university: APJ Abdul Kalam Technical University, Lucknow, UP, India
+      time: 2014 - 2018
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -168,23 +168,26 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Python
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Sklearn
+        level: 80%
+
+      - name: Pandas
+        level: 75%
+
+      - name: Numpy
+        level: 75%
+
+      - name: Tensorflow
+        level: 85%
+
+      - name: Keras
         level: 60%
+        
+      - name: Java
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
