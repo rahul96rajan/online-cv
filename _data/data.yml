@@ -3,12 +3,13 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Rahul Rajan
     tagline: Machine Learning Engineer
+    location: Centre for Development of Advance Computing 
     avatar: rahul.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -51,7 +52,7 @@ sidebar:
 career-profile:
     title:  About Me
     summary: |
-      I am a PG Diploma student in the [Center for Development of Advanced Computing](https://www.cdac.in/),
+      I am a PG Diploma student in the [Centre for Development of Advanced Computing](https://www.cdac.in/),
        Noida.
       You can download my CV [here](/assets/resume.pdf).
 education:
