@@ -89,10 +89,7 @@ experiences:
           - Exploring the data and looking for missing value and ambiguity in the data.
           - Preprocessing - cleaning, imputing and feature selection of the training dataset.
           - Creating an ML model on the training dataset and after testing, using this to predict the probability of scoring business opportunities from new customers list.
-          - Using the insights to targeting high-value customers based on customer demographics and
-attributes.
-          - Data Insights and Presentation - Using visualisations to present insights to the client.
-        Tools used - Python, NumPy, Pandas, Google Sheets, Scikit-Learn, Microsoft PowerBI
+
 
           
     - role: Software Engineer - 2
