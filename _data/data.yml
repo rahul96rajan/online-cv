@@ -127,11 +127,11 @@ projects:
     assignments:
       - title: OCR Desktop App
         link: "#hook"
-        tagline: "An OCR desktop app build upon tessert API enclosed in Java swing GUI."
+        tagline: "An OCR desktop app build upon tessert API enclosed in Java Swing GUI."
 
-#      - title: DevStudio
-#        link: "#"
-#        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Data Preparation 4 ML
+        link: "https://github.com/rahul96rajan/Data_Preparation_for_ML_models"
+        tagline: "A collection of Jupyter Notebook explaining why and how to prepare data for Machine Learning."
 #
 #      - title: Tempo
 #        link: "#"
