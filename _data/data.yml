@@ -23,8 +23,8 @@ sidebar:
     #bitbucket:
     #twitter: '@webjeda'
     stack-overflow: 10109201/r96r # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
@@ -111,11 +111,7 @@ experiences:
       time: July, 2017 - September, 2017
       company: ​PVR Cinemas HQ, Gurugram, India
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Working as Analyst Intern, my major tasks was to look for any anomaly in data from database and help PVR's IT team to formulate Jasper Report.
           - Design and develop Jasper Reports and templates.
           - Tools used - Java, Jasper iReport, SQL
 
