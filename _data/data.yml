@@ -148,13 +148,11 @@ projects:
 publications:
     title: Certifications and Courses
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Being an avid fan of concept of MOOC, I have completed over 13 online courses and still enjoy learning about exiting technologies through online platforms like Coursera, Kaggle and Pluralsight.
     papers:
-#      - title: The Art of Computer Programming
-#        link: "#"
-#        authors: Donald E. Knuth
+      - title: Machine Learning
+        link: "https://www.coursera.org/account/accomplishments/certificate/2Y78VLJ66WSH"
+        authors: Stanford University, Coursera
 #        conference: Addison-Wesley, 1968
 #
 #      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
