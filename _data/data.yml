@@ -126,8 +126,8 @@ projects:
         tagline: "An OCR desktop app build upon tessert API enclosed in Java Swing GUI."
 
       - title: Data Preparation 4 ML
-        link: "https://github.com/rahul96rajan/Data_Preparation_for_ML_models"
-        tagline: "A collection of Jupyter Notebook explaining why and how to prepare data for Machine Learning."
+        link: "https://rahul96rajan.github.io/Data_Preparation_for_ML_models/"
+        tagline: "A collection of jupyter notebooks explaining why and how to prepare data for Machine Learning."
 #
 #      - title: Tempo
 #        link: "#"
