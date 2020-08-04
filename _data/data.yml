@@ -106,7 +106,7 @@ experiences:
           - Provide feedback to product owners and test leads to improve existing automation approach.
           - Develop, execute and enhance TDD based automation using tools like Selenium, Java and other software test tools.
           - Participate in daily scrums and sync up calls with client and developers to verify and communicate enhancements suggested for the application or issues logged.
-          - Tools used - Java, Javascript, Selenium, Webdriver.io, restassured.io, Jenkins, testNG, maven, git. 
+          - <u>Tools used</u> - Java, Javascript, Selenium, Webdriver.io, restassured.io, Jenkins, testNG, maven, git. 
 
     - role: Analyst Intern
       time: July, 2017 - September, 2017
@@ -114,7 +114,7 @@ experiences:
       details: |
         Working as Analyst Intern, my major tasks was to look for any anomaly in data from database and help PVR's IT team to formulate Jasper Report.
           - Design and develop Jasper Reports and templates.
-          - Tools used - Java, Jasper iReport, SQL
+          - <u>Tools used</u> - Java, Jasper iReport, SQL
 
 
 projects:
