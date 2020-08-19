@@ -123,7 +123,7 @@ projects:
 #      'some thing in here'
     assignments:
       - title: OCR Desktop App
-        link: "#hook"
+        link: "https://github.com/rahul96rajan/tess4jGUI"
         tagline: "An OCR desktop app build upon tessert API enclosed in Java Swing GUI."
 
       - title: Data Preparation 4 ML
