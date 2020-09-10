@@ -84,7 +84,7 @@ experiences:
       time: Aug, 2020
       company: ​JPMorgan Chase & Co.
       details: |
-        Virtually interned with [KPMG, Australia](https://www.jpmorganchase.com/) software development department, where I build an dynamic interface for stock price data feed.
+        Virtually interned with [JPMorgan Chase & Co.](https://www.jpmorganchase.com/) software development department, where I contributed in building an dynamic interface for stock price data feed.
           - <u>Tools used</u> - Python, Typescript, Git
           - You can find the completion certificate [**here**](/assets/JPMorgan_Chase_completion_certificate.pdf)
 
@@ -159,12 +159,12 @@ publications:
       - title: Machine Learning
         link: "https://www.coursera.org/account/accomplishments/certificate/2Y78VLJ66WSH"
         authors: Stanford University, Coursera
-        conference: Addison-Wesley, 1968
+        conference: 'Instructors: Andrew Ng' 
 
       - title: "Mathematics for Machine Learning Specialization"
         link: "https://www.coursera.org/account/accomplishments/specialization/certificate/RK2LK2B38AMC"
         authors: Imperial College London
-        conference: "London, UK"
+        conference: "Instructors: David Dye, Samuel J. Cooper, Marc Deisenroth"
 #
 #      - title: A syntax directed compiler for Algol 60
 #        link: "#"
