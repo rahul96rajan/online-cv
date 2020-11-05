@@ -84,7 +84,7 @@ experiences:
       time: Aug, 2020
       company: ​JPMorgan Chase & Co.
       details: |
-        Virtually interned with [JPMorgan Chase & Co.](https://www.jpmorganchase.com/) software development department, where I contributed in building an dynamic interface for stock price data feed.
+        Virtually interned with [JPMorgan Chase & Co.](https://www.jpmorganchase.com/) software development department, where I contributed to building a dynamic interface for the stock price data feed.
           - <u>Tools used</u> - Python, Typescript, Git
           - You can find the completion certificate [**here**](/assets/JPMorgan_Chase_completion_certificate.pdf)
 
@@ -93,13 +93,11 @@ experiences:
       time: May, 2020
       company: ​KPMG, Australia
       details: |
-        Virtually interned with [KPMG, Australia](https://home.kpmg/au) Analytics department, where I extracted valuable insights from client's data help the client decide potential custmer. Major tasks performed during the internship are the following: 
+        Virtually interned with [KPMG, Australia](https://home.kpmg/au) Analytics department, where I extracted valuable insights from client's data help the client decide potential customers. Major tasks performed during the internship are the following: 
           - Assessment of data quality and completeness in preparation for analysis.
-          - Exploring the data and looking for missing value and ambiguity in the data.
-          - Preprocessing - cleaning, imputing and feature selection of the training dataset.
-          - Creating an ML model on the training dataset and after testing, using this to predict the probability of scoring business opportunities from new customers list.
-          - Using the insights to target high value customers based on customer demographics and attributes.
-          - Data Insights and Presentation; Using visualisations to present insights to the client.
+          - Exploring and Preprocessing data : looking and imputing for missing value and checking for ambiguity in the data.
+          - Using the insights to target high-value customers based on customer demographics and attributes.
+          - Data Insights and Presentation; using visualisations to present data insights.
           - <u>Tools used</u> - Python, NumPy, Pandas, Google Sheets, Scikit-Learn, Microsoft PowerBI
           - You can find the completion certificate [**here**](/assets/KPMG_completion_certificate.pdf)
 
@@ -109,19 +107,19 @@ experiences:
       time: July, 2018 - Feb, 2019
       company: QA InfoTech, Noida, India
       details: |
-        Worked for [QA InfoTech](https://qainfotech.com/) for 1.8 years wherein I was working for clients Kaplan Inc, and Macmillan Learning. My major role was to helps the client in development and maintenance of test automation scripts. The major tasks included :  
+        Worked for [QA InfoTech](https://qainfotech.com/) for 1.8 years wherein I was working for clients, Kaplan Inc and Macmillan Learning. My major role was to help the client in the development and maintenance of test automation scripts. The major tasks included :  
           - Design and build automated test framework and test suites for test cycles.
           - Set up Selenium grids on Virtual machines and integrate with Jenkins server.
           - Provide feedback to product owners and test leads to improve existing automation approach.
           - Develop, execute and enhance TDD based automation using tools like Selenium, Java and other software test tools.
           - Participate in daily scrums and sync up calls with client and developers to verify and communicate enhancements suggested for the application or issues logged.
-          - <u>Tools used</u> - Java, Javascript, Selenium, Webdriver.io, restassured.io, Jenkins, testNG, maven, git. 
+          - <u>Tools used</u> - Java, Javascript, Selenium, Webdriver.io, restassured.io, Jenkins, TestNG, maven, git. 
 
     - role: Analyst Intern
       time: July, 2017 - September, 2017
       company: ​PVR Cinemas HQ, Gurugram, India
       details: |
-        Working as Analyst Intern at [PVR Cinemas](https://www.pvrcinemas.com/about), my major tasks was to look for any anomaly in data from database and help PVR's IT team to formulate Jasper Report.
+        Working as Analyst Intern at [PVR Cinemas](https://www.pvrcinemas.com/about), my major tasks was to look for any anomaly in data from the database and help PVR's IT team to formulate Jasper Report.
           - Design and develop Jasper Reports and templates.
           - <u>Tools used</u> - Java, Jasper iReport, SQL
 
@@ -154,7 +152,7 @@ projects:
 publications:
     title: Certifications and Courses
     intro: |
-      Being an avid fan of concept of MOOC, I have completed over 13 online courses and I very much enjoy learning about exciting technologies through online platforms like Coursera, Kaggle and Pluralsight.
+      Being an avid fan of the concept of MOOC, I have completed over 13 online courses and I very much enjoy learning about exciting technologies through online platforms like Coursera, Kaggle and Pluralsight.
     papers:
       - title: Machine Learning
         link: "https://www.coursera.org/account/accomplishments/certificate/2Y78VLJ66WSH"
