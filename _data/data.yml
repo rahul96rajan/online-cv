@@ -129,6 +129,14 @@ projects:
     intro: >
 #      'some thing in here'
     assignments:
+      - title: text-2-strokes
+        link: "https://github.com/rahul96rajan/text-2-strokes"
+        tagline: "An online hadwriting synthesizer based on Alex Graves [paper](https://arxiv.org/abs/1308.0850)"
+
+      - title: Short deep learning projects
+        link: "https://github.com/rahul96rajan/short_projects"
+        tagline: "A collection of short DL projects; mostly building models from scratch."
+
       - title: OCR Desktop App
         link: "https://github.com/rahul96rajan/tess4jGUI"
         tagline: "An OCR desktop app build upon tessert API enclosed in Java Swing GUI."
@@ -152,14 +160,19 @@ projects:
 publications:
     title: Certifications and Courses
     intro: |
-      Being an avid fan of the concept of MOOC, I have completed over 13 online courses and I very much enjoy learning about exciting technologies through online platforms like Coursera, Kaggle and Pluralsight.
+      Being an avid fan of the concept of MOOC, I have completed over 20 online courses. Below are some which excited me the most.
     papers:
-      - title: Machine Learning
+      - title: Deep Learning **(Specialization - 5 Courses)**
+        link: "https://www.coursera.org/account/accomplishments/specialization/certificate/B3Y73E6YRYNX"
+        authors: deeplearning.ai, Coursera
+        conference: 'Instructor: Andrew Ng'
+
+      - title: Machine Learning **(Course)**
         link: "https://www.coursera.org/account/accomplishments/certificate/2Y78VLJ66WSH"
         authors: Stanford University, Coursera
-        conference: 'Instructors: Andrew Ng' 
+        conference: 'Instructor: Andrew Ng'
 
-      - title: "Mathematics for Machine Learning Specialization"
+      - title: "Mathematics for Machine Learning **(Specialization - 3 Courses)**"
         link: "https://www.coursera.org/account/accomplishments/specialization/certificate/RK2LK2B38AMC"
         authors: Imperial College London
         conference: "Instructors: David Dye, Samuel J. Cooper, Marc Deisenroth"
@@ -185,11 +198,14 @@ skills:
       - name: Numpy
         level: 70%
 
-      - name: Tensorflow
+      - name: Pytorch
         level: 80%
 
       - name: Keras
         level: 80%
+
+      - name: Tensorflow
+        level: 65%
         
       - name: Java
         level: 80%
