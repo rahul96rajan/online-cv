@@ -152,17 +152,17 @@ publications:
     intro: |
       Being an avid fan of the concept of MOOC, I have completed over 20 online courses. Below are some which excited me the most.
     papers:
-      - title: Deep Learning **(Specialization - 5 Courses)**
+      - title: Deep Learning (Specialization - 5 Courses)
         link: "https://www.coursera.org/account/accomplishments/specialization/certificate/B3Y73E6YRYNX"
         authors: deeplearning.ai, Coursera
         conference: 'Instructor: Andrew Ng'
 
-      - title: Machine Learning **(Course)**
+      - title: Machine Learning (Course)
         link: "https://www.coursera.org/account/accomplishments/certificate/2Y78VLJ66WSH"
         authors: Stanford University, Coursera
         conference: 'Instructor: Andrew Ng'
 
-      - title: "Mathematics for Machine Learning **(Specialization - 3 Courses)**"
+      - title: "Mathematics for Machine Learning (Specialization - 3 Courses)"
         link: "https://www.coursera.org/account/accomplishments/specialization/certificate/RK2LK2B38AMC"
         authors: Imperial College London
         conference: "Instructors: David Dye, Samuel J. Cooper, Marc Deisenroth"
