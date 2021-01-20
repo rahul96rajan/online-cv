@@ -121,7 +121,7 @@ projects:
     assignments:
       - title: text-2-strokes
         link: "https://github.com/rahul96rajan/text-2-strokes"
-        tagline: "An online hadwriting synthesizer based on Alex Graves paper - 'Generating Sequences With Recurrent Neural Networks'
+        tagline: "An online hadwriting synthesizer based on Alex Graves paper - 'Generating Sequences With Recurrent Neural Networks'"
 
       - title: Short deep learning projects
         link: "https://github.com/rahul96rajan/short_projects"
